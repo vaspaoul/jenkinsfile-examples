@@ -1,3 +1,4 @@
+https://medium.com/@AndrzejRehmann/private-jenkins-shared-libraries-540abe7a0ab7
 [![](https://images.microbadger.com/badges/image/hoto/jenkinsfile-examples.svg)](https://microbadger.com/images/hoto/jenkinsfile-examples "Get your own image badge on microbadger.com")
 # Jenkinsfiles Examples
 
